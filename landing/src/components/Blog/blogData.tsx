@@ -6,10 +6,10 @@ const blogData: Blog[] = [
     title: "How much should a small business really spend on marketing?",
     paragraph:
       "Stop guessing. We break down the real costs of agencies, freelancers, and DIY marketing vs. the AI advantage.",
-    image: "/images/blog/blog-01.jpg",
+    image: "/aipromote/images/blog/blog-01.jpg",
     author: {
       name: "AI Promote Team",
-      image: "/images/blog/author-01.png",
+      image: "/aipromote/images/blog/author-01.png",
       designation: "Strategy",
     },
     tags: ["budget", "strategy"],
@@ -20,10 +20,10 @@ const blogData: Blog[] = [
     title: "Top 5 repetitive tasks costing marketers money",
     paragraph:
       "Are you paying for manual labor that AI can do instantly? Discover the tasks you should automate today.",
-    image: "/images/blog/blog-02.jpg",
+    image: "/aipromote/images/blog/blog-02.jpg",
     author: {
       name: "AI Promote Team",
-      image: "/images/blog/author-02.png",
+      image: "/aipromote/images/blog/author-02.png",
       designation: "Automation",
     },
     tags: ["automation", "efficiency"],
@@ -34,10 +34,10 @@ const blogData: Blog[] = [
     title: "Comparing AI Agency vs Traditional Agency",
     paragraph:
       "Is an AI agency right for you? We compare cost, speed, and results to help you decide.",
-    image: "/images/blog/blog-03.jpg",
+    image: "/aipromote/images/blog/blog-03.jpg",
     author: {
       name: "AI Promote Team",
-      image: "/images/blog/author-03.png",
+      image: "/aipromote/images/blog/author-03.png",
       designation: "Analysis",
     },
     tags: ["comparison", "trends"],
