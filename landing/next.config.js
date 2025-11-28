@@ -2,6 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/aipromote",
+  assetPrefix: "/aipromote/",
   images: {
     unoptimized: true,
     remotePatterns: [
